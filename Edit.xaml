@@ -1,0 +1,13 @@
+﻿<Window x:Class="redzam.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:redzam"
+        mc:Ignorable="d"
+        Title="Edit" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="a" Height="45" Width="80" Margin="370,159,342,215"/>
+        <TextBlock x:Name="b" Height="45" Width="80" Margin="234,180,478,194"/>
+    </Grid>
+</Window>
